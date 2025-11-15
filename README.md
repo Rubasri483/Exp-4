@@ -24,7 +24,8 @@ Explanation
 <img width="779" height="528" alt="image" src="https://github.com/user-attachments/assets/302764ca-83d4-4207-80c8-5f85a4353d72" />
 
 ### Activity Diagram
-<img width="761" height="605" alt="image" src="https://github.com/user-attachments/assets/e25e4b47-bbc1-4382-8ccf-3ab57e4d21ad" />
+<img width="722" height="882" alt="image" src="https://github.com/user-attachments/assets/68795885-a021-49f3-8898-b40b0abb6c88" />
+
 
 ### Communication Diagram
 <img width="763" height="560" alt="image" src="https://github.com/user-attachments/assets/bc010c14-dc2b-4ea2-a6e9-b893ce0d1db2" />
